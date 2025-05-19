@@ -1,7 +1,7 @@
 # CCPROG3-HRS
 Hotel Reservation System
 
---Author--
+Authors:
 - Erin Chua
 - Andre Llanes
 
