@@ -2,8 +2,8 @@
 Hotel Reservation System
 
 --Author--
--Erin Chua
--Andre Llanes
+- Erin Chua
+- Andre Llanes
 
 ![Image](https://github.com/user-attachments/assets/f613fe12-7a33-4490-9eac-120946ef5a8b)
 
